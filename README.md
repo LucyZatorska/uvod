@@ -7,7 +7,17 @@ Github- misto, kde muzete spolupracovat zejmena  na kodem/textem
 
 Github jako socialni sit
 *ma hvezdicky, sledovani lidi, seznamovani se na projektech (open source komunita)
-Projects: Kanbanove rizen projektu
+
+Vytvorime si vlastni repo
+
+Dnes nas bude zajimat
+  *code
+  *issues
+  *pull requests
+  *settings
+
+Mozna stihneme
+Projects:kanbanove rizeni projektu
 
 Ostatni: 
 * Actions: automatizace (napr testovani, nasazeni, znackovani)
