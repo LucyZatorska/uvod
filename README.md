@@ -33,4 +33,8 @@ Projects:kanbanove rizeni projektu
 
 [Github Actions tutorial](https://github-actions-hero.vercel.app/)
 
-zkusim vyresit konflikt na radku 36
+Budu resit konflikt
+A uvidime, jestli se to vyresi
+
+
+
