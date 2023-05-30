@@ -7,6 +7,7 @@ Github- misto, kde muzete spolupracovat zejmena  na kodem/textem
 
 Github jako socialni sit
 *ma hvezdicky, sledovani lidi, seznamovani se na projektech (open source komunita)
+
 Vytvorime si vlastni repo
 
 Dnes nas bude zajimat
@@ -18,8 +19,7 @@ Dnes nas bude zajimat
 Mozna stihneme
 Projects:kanbanove rizeni projektu
 
-Ostatni
-*Actions: Automatizace (testovani, znackovani)
-*wiki-wiki stranka projektu
-*security- nastaveni bezpecnostnich opatreni
-
+Ostatni: 
+* Actions: automatizace (napr testovani, nasazeni, znackovani)
+* Wiki-wiki stranka projektu
+* Security-nastaveni bezpecnostnich opatreni
