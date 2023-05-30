@@ -35,3 +35,6 @@ Projects:kanbanove rizeni projektu
 
 Budu resit konflikt
 A uvidime, jestli se to vyresi
+
+
+
