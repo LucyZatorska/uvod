@@ -25,7 +25,7 @@ Projects:kanbanove rizeni projektu
 * Security-nastaveni bezpecnostnich opatreni
 
 ## Dalsi zdroje
-[ Markdown] https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[ Markdown] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Git branching tutorial] https://learngitbranching.js.org/
 
