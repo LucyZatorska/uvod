@@ -32,3 +32,6 @@ Projects:kanbanove rizeni projektu
 [Github pages doc](https://pages.github.com/)
 
 [Github Actions tutorial](https://github-actions-hero.vercel.app/)
+
+Budu resit konflikt
+A uvidime, jestli se to vyresi
