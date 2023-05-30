@@ -32,3 +32,5 @@ Projects:kanbanove rizeni projektu
 [Github pages doc](https://pages.github.com/)
 
 [Github Actions tutorial](https://github-actions-hero.vercel.app/)
+
+zkusim vyresit konflikt na radku 36
