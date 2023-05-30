@@ -26,6 +26,9 @@ Projects:kanbanove rizeni projektu
 
 ## Dalsi zdroje
 [ Markdown] https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 [Git branching tutorial] https://learngitbranching.js.org/
+
 [Github pages doc] https://pages.github.com/
+
 [Github Actions tutorial] https://github-actions-hero.vercel.app/
